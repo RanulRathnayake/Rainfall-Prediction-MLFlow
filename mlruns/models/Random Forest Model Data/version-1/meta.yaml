@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1776791558891
+current_stage: None
+description: ''
+last_updated_timestamp: 1776791558891
+name: Random Forest Model Data
+run_id: 019a73f85db24b42895e58db96484a77
+run_link: ''
+source: file:///d:/Machine%20Learning/Rainfall-Prediction-MLFlow/mlruns/529041090455675692/019a73f85db24b42895e58db96484a77/artifacts/Random
+  Forest Model Data
+status: READY
+status_message: null
+storage_location: file:///d:/Machine%20Learning/Rainfall-Prediction-MLFlow/mlruns/529041090455675692/019a73f85db24b42895e58db96484a77/artifacts/Random
+  Forest Model Data
+user_id: null
+version: 1

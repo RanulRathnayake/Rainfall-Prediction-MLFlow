@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Machine%20Learning/Rainfall-Prediction-MLFlow/mlruns/529041090455675692/7ac2c7f68d3d4632b2f24fabc369d432/artifacts
+end_time: 1776791533345
+entry_point_name: ''
+experiment_id: '529041090455675692'
+lifecycle_stage: active
+run_id: 7ac2c7f68d3d4632b2f24fabc369d432
+run_name: crawling-shrimp-242
+run_uuid: 7ac2c7f68d3d4632b2f24fabc369d432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776791530479
+status: 3
+tags: []
+user_id: ranul
