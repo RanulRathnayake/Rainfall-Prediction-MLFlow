@@ -56,3 +56,15 @@ How to Run
 
 04. Enter the weather features in the form and click Predict to get the prediction result.
 
+<img width="1919" height="1038" alt="Screenshot 2026-04-21 224605" src="https://github.com/user-attachments/assets/709dbd4a-fad8-44f3-bb08-0c52db36ae0d" />
+
+<img width="1919" height="1039" alt="Screenshot 2026-04-21 224630" src="https://github.com/user-attachments/assets/eb916326-7ef9-467e-9d51-77d28c0807d7" />
+
+<img width="1919" height="1039" alt="Screenshot 2026-04-21 224653" src="https://github.com/user-attachments/assets/76139b81-5fda-4424-9d7e-201d39e0115c" />
+
+<img width="1919" height="1041" alt="Screenshot 2026-04-22 001658" src="https://github.com/user-attachments/assets/0d62e0e3-233d-4cef-b117-84a7eae089c8" />
+
+<img width="1919" height="1039" alt="Screenshot 2026-04-22 000228" src="https://github.com/user-attachments/assets/f613aad8-9af9-4a8c-a874-3e0f9a3b2bf1" />
+
+<img width="1919" height="1042" alt="Screenshot 2026-04-22 000421" src="https://github.com/user-attachments/assets/203d9718-941a-4c7d-9174-37a444003bd1" />
+
